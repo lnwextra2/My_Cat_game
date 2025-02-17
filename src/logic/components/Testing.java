@@ -7,6 +7,11 @@ public class Testing {
 		System.out.println("Hello world");
 		System.out.println("new test 55555555555");
 		System.out.print(true);
+		
+		System.out.println("Haha 007 V2");
+		System.out.println("Test Commit in eclipse");
+		System.out.println("Test pull 1");
+
 	}
 
 }
